@@ -8,8 +8,6 @@ public class AddGUI extends JFrame implements ActionListener {
 
     public AddGUI() {
         super("加法小程序");
-
-
         // 创建并设置字体
         Font font = new Font("微软雅黑", Font.PLAIN, 16);
         UIManager.put("Button.font", font);
