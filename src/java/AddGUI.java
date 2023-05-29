@@ -62,5 +62,6 @@ public class AddGUI extends JFrame implements ActionListener {
     public static void main(String[] args) {
         AddGUI addGUI = new AddGUI();
         System.out.println("加法");
+        System.out.println("11111111");
     }
 }
